@@ -1,2 +1,0 @@
-# king.py
-Good luck 
